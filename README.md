@@ -41,7 +41,7 @@
 
 # Others :
 * Grokking Algorithms Book
-* [Code Masry YouTube Channel] (https://www.youtube.com/user/codemasrytube)
+* [Code Masry YouTube Channel] (#https://www.youtube.com/user/codemasrytube)
 
 5- Arabic Competitive Programming YouTube Channel
 https://www.youtube.com/c/ArabicCompetitiveProgramming
