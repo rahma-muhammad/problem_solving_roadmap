@@ -4,8 +4,8 @@
 
 * [Pointers](#pointers) 
 * [Static and dynamic memory alloction](#memory_allocation)
-* [Time complexity](#time_complexity)
-* [Space complexity](#space_complexity)
+* [Time complexity](#Time_complexity)
+* [Space complexity](#Space_complexity)
 * [Data Structures](#data_structure)
 * [Algorithms](#algorithms)
 * [String Search and manipulation](#String_Search_and_manipulation)
@@ -19,7 +19,7 @@
 ## Memory alloction
 ## Time complexity
 ## Space complexity
-## Data structures
+## Data structure
 
 * Arrays
 
