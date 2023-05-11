@@ -40,3 +40,17 @@
 
 
 # Others :
+* Grokking Algorithms Book
+* [Code Masry YouTube Channel] (https://www.youtube.com/user/codemasrytube)
+
+5- Arabic Competitive Programming YouTube Channel
+https://www.youtube.com/c/ArabicCompetitiveProgramming
+
+6- KMR Script YouTube Channel
+https://www.youtube.com/c/KMRScript
+
+7- Adel Nasim YouTube Channel
+https://www.youtube.com/c/AdelNasim
+
+8- Geeksforgeeks Website
+https://www.geeksforgeeks.org/
