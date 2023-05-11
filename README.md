@@ -3,12 +3,12 @@
 # Topics you have to study :
 
 * [Pointers](#pointers) 
-* [Static and dynamic memory alloction](#memory_allocation)
-* [Time complexity](#Time_complexity)
-* [Space complexity](#Space_complexity)
-* [Data Structures](#data_structure)
+* [Static and dynamic memory alloction](#memory_alloction)
+* [Time complexity](#time_complexity)
+* [Space complexity](#space_complexity)
+* [Data Structure](#data_structure)
 * [Algorithms](#algorithms)
-* [String Search and manipulation](#String_Search_and_manipulation)
+* [String Search and manipulation](string_search_and_manipulation)
       * Suffix Arrays
       * Search Pattern in Text
 
